@@ -1,4 +1,5 @@
 
+
 ---
 
 ## 🔍 Overview
@@ -32,6 +33,8 @@ The notebook provides:
 
 - **Line graphs** tracking case trends over time.
 - **Preliminary exploration** of total cases and patterns.
+  ![deaths](https://github.com/user-attachments/assets/54cce9f1-6daa-45bc-827c-d7fbd6c05824)
+
 
 
 ## 🛠 Tech Stack
